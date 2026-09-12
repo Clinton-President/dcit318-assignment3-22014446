@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,Bob Johnson,72
+103,Clara Owusu,58
+104,David Boateng,45
+105,Emma Asante,91
